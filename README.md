@@ -1,2 +1,2 @@
-# 1995123xh.github.io
-Hao's website
+# Hao Xie
+This page is Hao Xie's personal website.
